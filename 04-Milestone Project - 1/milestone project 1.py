@@ -117,7 +117,7 @@ def setup():
 
 
 player1 = input("Player 1's name: ")
-print("I think player 1 is an angel...")
+
 
 player2 = input("Player 2's name: ")
 
